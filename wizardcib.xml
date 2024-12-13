@@ -1,31 +1,31 @@
  <builds>  
  <build>
- <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Offline[COLOR])</name>
- <version>ByNahro</version>
- <url>https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml</url>
+ <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>V-2.3</version>
+ <url>https://archive.org/download/byhaloix/akt.zip</url>
+ <icon>https://hizliresim.com/3xj1dnf</icon>
+ <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
+ </build>
+ <build>
+ <name>[COLOR orange]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <version>V-2.2</version>
+ <url>https://archive.org/download/byhaloix/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
  <build>
  <name>[COLOR dodgerblue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByNahro</version>
- <url>https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml</url>
+ <version>V-2.1</version>
+ <url>https://archive.org/download/byhaloix/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
  <build>
- <name>[COLOR blue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByNahro</version>
- <url>https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- </build>
- <build>
- <name>[COLOR red]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByStube</version>
- <url>https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml</url>
+ <name>[COLOR yellow]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <version>V-2.0</version>
+ <url>https://archive.org/download/byhaloix/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
 </builds>
-https://vuifxg.db.files.1drv.com/y4mxrgp7pnjvGTy_o_yzQmkbOoOiAiaEEacr0vPeEW2gg7SgHJSlpJa3SyoZ9OUlId0Ww6Sb4gY1Me_blfSSaRtZMSSGhLCEHeUvoRuOFfs1BQZDzncGQ7DQpT_6_q8NT3JjfJ8HhK7979vyQlcy3gaKZfzdeI00dGegoW4IqKrfSxb7_wuMEW-wu0luEaRKC4Fvi-Lz0a3GufglnSXjXD2z
+
